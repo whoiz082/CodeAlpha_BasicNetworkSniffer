@@ -23,19 +23,19 @@ This project focuses on understanding how data travels across networks by captur
 
 CodeAlpha_BasicNetworkSniffer/
 
-├── main.py
+── main.py
 
-├── core/
-│ ├── init.py
-│ ├── capture.py
-│ ├── parser.py
-│ ├── analyzer.py
-│ └── logger.py
+── core/
+- init.py
+- capture.py
+- parser.py
+- analyzer.py
+- logger.py
 
-├── logs/
+── logs/
 
-├── pcaps/
+── pcaps/
 
-├── screenshots/
+── screenshots/
 
 └── docs/
