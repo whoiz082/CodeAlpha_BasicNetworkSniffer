@@ -20,3 +20,22 @@ This project focuses on understanding how data travels across networks by captur
 - Wireshark
 
 **Project Structure**
+
+CodeAlpha_BasicNetworkSniffer/
+
+├── main.py
+
+├── core/
+│ ├── init.py
+│ ├── capture.py
+│ ├── parser.py
+│ ├── analyzer.py
+│ └── logger.py
+
+├── logs/
+
+├── pcaps/
+
+├── screenshots/
+
+└── docs/
